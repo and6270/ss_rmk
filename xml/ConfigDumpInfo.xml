@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.17">
+	<ConfigVersions>
+		<Metadata name="CommonPicture.ЗаполнитьФорму" id="5ee78a4a-32af-482b-8e0a-014ebff32197" configVersion="6182e0b0ae306f33f80373f42b4e18f62fe390e4"/>
+		<Metadata name="CommonPicture.Набор" id="d5e81d2c-10d1-4f53-b717-c4355fd6cc69" configVersion="7c466c50a36621a2be3ae73b1039d5eb934a014d"/>
+		<Metadata name="CommonPicture.Наборы" id="59327ed7-6028-437f-8e55-2e155d776d3d" configVersion="b673155b2d24898e24de25fd70532e2a907aff05"/>
+		<Metadata name="CommonPicture.РМК_Стереть" id="85305671-0818-4bd8-90d7-6d09cb44a1c5" configVersion="90c08ca5d11c981cb002e45ec2fe8a3ff4b5fa90"/>
+		<Metadata name="CommonPicture.РМК_ТочкаКалькулятора" id="70757d55-cecd-45cb-b8a6-4df5f3090403" configVersion="21191265332a275474c2f32d4ee4e1499e36747a"/>
+		<Metadata name="CommonPicture.РМК_Цифра0" id="a73c6886-0a79-4f46-89f4-ea733b7284e8" configVersion="cefa3d587b3df1cfee337c4db5314850915d8507"/>
+		<Metadata name="CommonPicture.РМК_Цифра1" id="e61e6c54-ca88-4b12-992b-c4a5fb8a5db7" configVersion="e2320f932a3571a5cb2833c155ba294671736643"/>
+		<Metadata name="CommonPicture.РМК_Цифра2" id="19602a6e-8a4f-40b3-811b-b663cef95992" configVersion="2d10a96f9200c59a167e9de53a1b08de98897c4e"/>
+		<Metadata name="CommonPicture.РМК_Цифра3" id="897ee343-3c84-414b-9ad3-14d29085c1fd" configVersion="e8135bfff55beb88511f8ea072c2150d7271d11f"/>
+		<Metadata name="CommonPicture.РМК_Цифра4" id="e17a41db-d77a-4151-9a07-74e12cdeaa4b" configVersion="fc2c6e2c79dd53fc81a221eee8d8bcb0c5641d29"/>
+		<Metadata name="CommonPicture.РМК_Цифра5" id="693807c5-d219-43e8-97c4-937e6c616a1e" configVersion="954d3a17108757d5b1da8bb536da2a1b724503b9"/>
+		<Metadata name="CommonPicture.РМК_Цифра6" id="ddfdd901-7d26-4e9b-ad82-aef056fa7c98" configVersion="f6f0bee254ded4766c85d86779d7622fc95f3c5b"/>
+		<Metadata name="CommonPicture.РМК_Цифра7" id="19909f86-3f44-4c74-ac36-3cce55e3723b" configVersion="ede5a5ae792278798c294065a38618f4806080b3"/>
+		<Metadata name="CommonPicture.РМК_Цифра8" id="78534d6c-51fc-4cc6-a6ba-e4311f068ba9" configVersion="2a8627134a4a7a8a5c68da21d215c8d289290a75"/>
+		<Metadata name="CommonPicture.РМК_Цифра9" id="29b8e34f-1886-4649-b2cd-169477fbe533" configVersion="5d9d78699e7b6797018898c22dad5928d49df3e3"/>
+		<Metadata name="CommonPicture.СерииНоменклатурыКолонкаСтатусов" id="a02c4b1b-78f7-452c-879c-a3d25f3bb9d5" configVersion="ad0008b8ee8e0f1fcf232d301b1d4f99eb0d3574"/>
+		<Metadata name="CommonPicture.СтатусыУказанияСерий" id="9b86daba-a472-4067-86e2-c3bda97e3e36" configVersion="bdf9b7a0066ee387d4e5e9e8939215202c81cc19"/>
+		<Metadata name="Configuration.РМК" id="7f2e4838-7f5c-4410-8d3d-89e615643d73" configVersion="6ba4d202257b697fbe59fbd48647b38d5b9fb0d0"/>
+		<Metadata name="Document.ЧекККМ" id="13fc6f29-f30f-492e-9ff2-5a89017879c1" configVersion="06a68d18049315dbceddec3106885a4f1558b973"/>
+		<Metadata name="Document.ЧекККМ.Form.ФормаДокументаРМК" id="62c131d9-822f-45f2-9e81-f3549e756478" configVersion="d68f012abf853e1b265046c138715d0b10dd60d4"/>
+		<Metadata name="Document.ЧекККМ.Form.ФормаДокументаРМК.Form" id="62c131d9-822f-45f2-9e81-f3549e756478.0" configVersion="94b66fc7268de67e88c84433ba6e20cce5c87a50"/>
+		<Metadata name="Document.ЧекККМ.Form.ФормаОплатыНаличными" id="34df41d8-2b90-4adc-8d45-ccb63195e36e" configVersion="f4e35e1249609a38acfd90aafb7ff947ca65702f"/>
+		<Metadata name="Document.ЧекККМ.Form.ФормаОплатыНаличными.Form" id="34df41d8-2b90-4adc-8d45-ccb63195e36e.0" configVersion="c6815d06dce0ddc7c9c25fccad59acc0f0ebc4e8"/>
+		<Metadata name="Language.Русский" id="6b3a7e56-a093-4760-9235-13ce42e41c51" configVersion="6e85afb392faeef1b7adf67b59dcc7319d18bdf2"/>
+		<Metadata name="Role.Расш66_ОсновнаяРоль" id="deb857fc-0c90-4b59-9a81-f11b23a74eb6" configVersion="c3ee3bd3e8fabc51756cc7d4cb18fb70c2cb777d"/>
+		<Metadata name="StyleItem.ИндивидуальнаяЦена" id="bc5f2995-d3ba-4546-bb5d-2276d6547a98" configVersion="bec3393aaee156ed9a3d2e5e94a4c45f15e738c8"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
